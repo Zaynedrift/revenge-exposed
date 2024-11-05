@@ -6,4 +6,6 @@ Disclaimers:
 - Please do not go out of your way to harass anyone mentioned in this website or repository. we don't encourage it and we dont condone it.
 - there are no legal grounds to send a dmca takedown or threaten legal action to this website as it's based off personal experience and is not intended to affect any people or projects, just give them information or something to read.
 
-![Sir I made vendetta](sirimadevendetta.png)
+![Sir I made vendetta](/images/sirimadevendetta.png)
+
+![Doesnt matter](/images/doesntmatter.png)

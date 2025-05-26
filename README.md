@@ -4,7 +4,6 @@ Not to be confused with [Revenge Xposed](https://github.com/revenge-mod/revenge-
 Disclaimers:
 - All information in this repository and website is 100% based off personal experience and facts, We are not responsible for any negative effect this has on Revanced, Revenge or the Owners of these projects.
 - Please do not go out of your way to harass anyone mentioned in this website or repository. we don't encourage it and we dont condone it.
-- there are no legal grounds to send a dmca takedown or threaten legal action to this website as it's based off personal experience and is not intended to affect any people or projects, just give them information or something to read.
 
 ![Sir I made vendetta](/images/sirimadevendetta.png)
 
